@@ -41,7 +41,7 @@ In addition to my data science expertise, I have developed strong skills in comm
 ---
 
 ## 🛠 Skills
-- **Programming Languages**: R, Python
+- **Programming Languages**: R
 - **Data Manipulation**: Tidyverse, dplyr, tidyr
 - **Data Visualization**: ggplot2, plotly
 - **Web Scraping**: rvest, httr
