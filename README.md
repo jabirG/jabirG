@@ -20,7 +20,7 @@ I embarked on an intense 3-month data science training program where I:
 
 ### 2023 - Internship at Posit
 I joined Posit for an 11-month internship focused on R programming:
-- Contributed coding solutions to 16 chapters of the published book *R for Data Science*.
+- Contributed coding solutions to 16 chapters of the published book [**R for Data Science**](https://r4ds.hadley.nz/).
 - Tackled real-world problems, creating efficient and reproducible R code.
 - Worked closely with the Posit team to support their mission of enhancing data science education.
 
