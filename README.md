@@ -9,7 +9,7 @@ I'm Jabir Ghaffar, a dedicated data scientist with a passion for using R to tran
 
 ## 📚 Career Highlights
 
-### 2022 - Data Science Training
+### 2022 - Data Science Training With Datatrail - John Hopkins
 I embarked on an intense 3-month data science training program where I:
 - Scraped data from the web using various tools and techniques.
 - Manipulated and transformed data into a tidy format for seamless analysis.
