@@ -31,7 +31,11 @@ This year, I served as a teaching assistant, where I:
 - **Student Guidance**: Assisted students in analyzing wealth and equity data among different ethnic groups in America, providing one-on-one support to enhance their analytical thinking and attention to detail.
 
 ### 2024 - CMS Internship
-Currently, I am working as an intern with CMS (Centers for Medicare & Medicaid Services), where I apply my data science skills to real-world healthcare data.
+I interned with the Centers for Medicare & Medicaid Services (CMS) as part of the DSAC (Data Sharing and Analytics Center) team. During this internship, I:
+- **Version Control and Collaboration**: Learned to use VS Code for converting a PDF checklist into Markdown, committing, and pushing changes to a pull request on GitHub.
+- **Open Source Contribution**: Worked on converting a checklist for the open source team that will serve as a guide and template for future editors, ensuring long-term usability and clarity.
+- **Agile Workflow**: Engaged in team sprint meetings and worked with GitHub boards, enhancing my ability to collaborate effectively in a structured team environment.
+- **Mural for Visual Collaboration**: Gained experience using Mural to facilitate team collaboration, brainstorming, and planning in a visual and interactive way.
 
 ### AI and Data Science Communication
 In addition to my data science expertise, I have developed strong skills in communicating with AI systems:
